@@ -1,0 +1,30 @@
+{
+  "team": {
+    "name": "Chater Match Eagles",
+    "users": [
+      {
+        "id": 1,
+        "firstname": "Oliver",
+        "lastname": "Winks",
+        "tasks": []
+      }
+    ]
+  },
+  "stages": [
+    {
+      "order": 1,
+      "name": "Todo",
+      "tasks": []
+    },
+    {
+      "order": 2,
+      "name": "Doing",
+      "tasks": []
+    },
+    {
+      "order": 3,
+      "name": "Done",
+      "tasks": []
+    }
+  ]
+}
